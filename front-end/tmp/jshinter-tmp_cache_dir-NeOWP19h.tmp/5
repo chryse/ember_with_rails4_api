@@ -1,0 +1,4 @@
+module('JSHint - routes');
+test('routes/classrooms.js should pass jshint', function() { 
+  ok(false, 'routes/classrooms.js should pass jshint.\nroutes/classrooms.js: line 2, col 8, \'DS\' is defined but never used.\n\n1 error'); 
+});

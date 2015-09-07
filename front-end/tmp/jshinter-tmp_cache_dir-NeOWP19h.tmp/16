@@ -1,0 +1,4 @@
+module('JSHint - controllers');
+test('controllers/classrooms.js should pass jshint', function() { 
+  ok(false, 'controllers/classrooms.js should pass jshint.\ncontrollers/classrooms.js: line 23, col 44, \'response\' is defined but never used.\n\n1 error'); 
+});

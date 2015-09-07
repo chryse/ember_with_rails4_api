@@ -1,0 +1,4 @@
+module('JSHint - routes');
+test('routes/classrooms.js should pass jshint', function() { 
+  ok(false, 'routes/classrooms.js should pass jshint.\nroutes/classrooms.js: line 7, col 102, Missing semicolon.\n\n1 error'); 
+});

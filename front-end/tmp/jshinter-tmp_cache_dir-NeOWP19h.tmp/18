@@ -1,0 +1,4 @@
+module('JSHint - controllers');
+test('controllers/classrooms.js should pass jshint', function() { 
+  ok(false, 'controllers/classrooms.js should pass jshint.\ncontrollers/classrooms.js: line 26, col 17, Forgotten \'debugger\' statement?\ncontrollers/classrooms.js: line 26, col 25, Missing semicolon.\n\n2 errors'); 
+});

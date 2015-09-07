@@ -1,0 +1,1 @@
+/Users/JUN/Documents/practices/cold_call/front-end/tmp/funnel-output_path-eHIksXFp.tmp/ember-data/ember-data.js
